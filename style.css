@@ -51,7 +51,7 @@ section{
 	z-index:2;
 	background:#fff;
 	border-radius:1em;
-	box-shadow:0 4rem 5rem rgba(0,0,0,.3);
+	box-shadow:0 4rem 5rem rgba(0,0,0,.2);
 	top:50%;
 	left:50%;
 	transform:translate(-50%,-50%);
@@ -64,7 +64,7 @@ section{
 	
 #bg-img{
 	width:22rem;
-	height:8em;
+	height:8.5em;
 	background-image:url(images/bg-pattern-card.svg);
 	background-size:cover;
 	background-position:center center;
