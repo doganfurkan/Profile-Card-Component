@@ -86,8 +86,8 @@ section{
 #imgbrdr{
 	position:absolute;
 	z-index:1 !important;
-	width:calc(6rem + 8px);
-	height:calc(6rem + 8px);
+	width:6.7rem;
+	height:6.7rem;
 	background:#fff;
 	display:block;
 	border-radius:50%;
