@@ -4,4 +4,4 @@ I used only Html and Css to overcome this challenge. Design and images were read
 
 If you wanna see my Frontend Mentor profile here it is: [Furkan on Frontendmentor.io](https://www.frontendmentor.io/profile/firkan)
 
-For this solution's page: [Profile card w HTML and CSS only on Frontendmentor.io](https://www.frontendmentor.io/solutions/profile-card-w-html-and-css-only-lcUjOl4qG)
+To preview this solution: [Click Here](https://doganfurkan.github.io/Profile-Card-Component)
